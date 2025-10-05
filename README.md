@@ -18,10 +18,10 @@ Dataset terdiri dari beberapa fitur pelanggan, antara lain:
 
 ## 🚀 Cara Menjalankan Proyek di Google Colab
 1. Buka file notebook (`.ipynb`) di Google Colab.  
-2. Pastikan semua library sudah terinstal (scikit-learn, pandas, numpy, matplotlib, seaborn).  
+2. Pastikan semua library sudah terinstal (scikit-learn, pandas, numpy, matplotlib, sqlite3).  
    - Jika belum, jalankan:  
      ```python
-     !pip install scikit-learn pandas numpy matplotlib seaborn
+     !pip install scikit-learn pandas numpy matplotlib sqlite3
      ```
 3. Upload dataset ke Colab atau hubungkan dengan Google Drive.  
 4. Jalankan notebook dari atas ke bawah.  
